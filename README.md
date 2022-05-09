@@ -7,6 +7,7 @@ I'm a Software Engineer working with:
 * React
 * Web3
 * Golang
+* Databases like SQL Server, PostgreSQL, Redis and MongoDB
 * Cloud Providers like Digital Ocean, Heroku and AWS
 
 Solidity/Blockchain enthusiast, currently learning more about Solidity and Web3.
